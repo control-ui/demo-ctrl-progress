@@ -6,5 +6,5 @@ render(
     <React.Profiler id="App" onRender={() => null}>
         <App/>
     </React.Profiler>,
-    document.querySelector('#root')
+    document.querySelector('#root'),
 )

@@ -4,7 +4,7 @@ const fontHeading = '"Playfair Display", Didot, Georgia, "Times New Roman", Time
 const fontBody = 'Calibri, Candara, Segoe, Segoe UI, Optima, Arial, sans-serif'
 const universal = {
     palette: {
-        contrastThreshold: 2,
+        contrastThreshold: 3,
     },
     breakpoints: {
         values: {
