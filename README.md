@@ -2,14 +2,15 @@
 
 [![Github actions Build](https://github.com/control-ui/demo-ctrl-progress/actions/workflows/blank.yml/badge.svg)](https://github.com/control-ui/demo-ctrl-progress/actions)
 
-**Example project for [`@ui-controls/progress`](https://github.com/control-ui/control-ui-ctrl)**..
+**Example project for: [`@ui-controls/progress`](https://github.com/control-ui/control-ui-ctrl)**
 
 Files in `src`:
 
 - [App.tsx](./src/App.tsx)
-- [components/Layout.tsx](./src/components/Layout.tsx) app layout, routing and na
+- [components/Layout.tsx](./src/components/Layout.tsx) app layout, routing and nav
 - example pages:
     - [pages/PageConfirm.tsx](./src/pages/PageConfirm.tsx) with `ButtonConfirm` + `IconButtonConfirm`
+    - [pages/PageProgress.tsx](./src/pages/PageProgress.tsx) with `ButtonProgress` + `IconButtonProgress`
     - [pages/PageProgressConfirm.tsx](./src/pages/PageProgressConfirm.tsx) with `ButtonProgress` + `IconButtonProgress` using `two-clicks-to-confirm`
 
 [![Run on CodeSandbox](https://img.shields.io/badge/run%20on%20CodeSandbox-blue?labelColor=fff&logoColor=505050&style=for-the-badge&logo=codesandbox)](https://codesandbox.io/s/github/control-ui/demo-ctrl-progress/tree/main/?autoresize=1&fontsize=12&hidenavigation=1&module=%2Fsrc%2FPageProgressConfirm.tsx,%2Fsrc%2FPageConfirm.tsx)
