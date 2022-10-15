@@ -14,7 +14,7 @@ Files in `src`:
 
 [![Run on CodeSandbox](https://img.shields.io/badge/run%20on%20CodeSandbox-blue?labelColor=fff&logoColor=505050&style=for-the-badge&logo=codesandbox)](https://codesandbox.io/s/github/control-ui/demo-ctrl-progress/tree/main/?autoresize=1&fontsize=12&hidenavigation=1&module=%2Fsrc%2FPageProgressConfirm.tsx,%2Fsrc%2FPageConfirm.tsx)
 
-[![Run on StackBlitz](https://img.shields.io/badge/run%20on%20StackBlitz-blue?labelColor=fff&logoColor=505050&style=for-the-badge&logo=stackblitz)](https://stackblitz.com/github/control-ui/demo-ctrl-progress?file=src%2FPageProgressConfirm.tsx,src%2FPageConfirm.tsx)
+[![Run on StackBlitz](https://img.shields.io/badge/run%20on%20StackBlitz-blue?labelColor=fff&logoColor=505050&style=for-the-badge&logo=stackblitz)](https://stackblitz.com/github/control-ui/demo-ctrl-progress?file=src%2Fpages%2FPageConfirm.tsx,src%2Fpages%2FPageProgressConfirm.tsx)
 
 [![Clone on Repl.it](https://img.shields.io/badge/clone%20on%20repl.it-grey?labelColor=fff&style=for-the-badge&logo=replit)](https://repl.it/github/control-ui/demo-ctrl-progress)
 
